@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+header{
+   width: 100%;
+   height: 100px;
+   display: flex;
+   justify-content: space-between;
+   margin-bottom: 50px;
+   
+}
+header img{
+    width: 400px;
+    padding: 20px;
+}
+.container-info{
+    padding-right: 100px;
+    margin-top: 30px;
+}
+.container-info p{
+    margin: 5px;
+}
